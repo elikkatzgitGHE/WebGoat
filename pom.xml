@@ -81,6 +81,7 @@
             <name>Doug Morato</name>
             <email>doug.morato@owasp.org</email>
             <organization>OWASP</organization>
+		
             <organizationUrl>https://github.com/dougmorato</organizationUrl>
             <timezone>America/New_York</timezone>
             <properties>
